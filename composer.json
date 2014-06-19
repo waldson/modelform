@@ -1,6 +1,8 @@
 {
     "name": "w5n/modelform",
     "version": "0.1.0",
+    "license": "MIT",
+    "description": "Easily create forms, validate and filter data.",
     "require": {
         "php": ">=5.3.3"
     },
