@@ -101,7 +101,7 @@ There is also a [Boostrap 3](http://getbootstrap.com/) form renderer:
     //On your view file...
     echo $form;
     
-The primary array values define rows, key/value pairs inside primary values define field/fieldSize. With previous layout you'll get a three rows form: first row with 'name'  and 'birth_date' inputs and second row with 'token' input and third row with a submit button. 'submit' key is a extra field automatically added to form object. 
+The primary array values define rows, key/value pairs inside primary values define field/fieldSize. With previous layout you'll get a three rows form: first row with 'name'  and 'birth_date' inputs, second row with 'token' input and third row with a submit button. 'submit' key is a extra field automatically added to form object. 
 
 **PS:** You need to add Bootstrap 3 CSS file to your view file.
 
