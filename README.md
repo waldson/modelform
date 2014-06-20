@@ -71,7 +71,7 @@ or...
     *Array
     *(
     *    [name] => Waldson
-    *    [birth_date] => 1990-10-20
+    *    [birth_date] => 1989-05-19
     *    [token] => 91ba11729e0504813d3fa2ea146c360807aeeee0
     *)
     */
