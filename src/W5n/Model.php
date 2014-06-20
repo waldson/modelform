@@ -94,6 +94,7 @@ class Model extends EventDispatcher
             if ($field !== null)
                 $field->value($v);
         }
+        return $this;
     }
     
     public function getValues($filterCallback = null)
