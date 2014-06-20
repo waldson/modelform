@@ -97,6 +97,11 @@ class ModelForm extends EventDispatcher implements Renderable
         return $this->renderer->render($this);
     }
     
+    public function __toString()
+    {
+        return $this->render();
+    }
+    
     public function setLayout(array $layout)
     {
         return $this->renderer->setFormLayout($layout);
