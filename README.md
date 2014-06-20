@@ -105,15 +105,18 @@ The primary array values define rows, key/value pairs inside primary values defi
 
 **PS:** You need to add Bootstrap 3 CSS file to your view file.
 
-###Validators###
+Validators
+---------
 
 soon...
 
-###Filters###
+Filters
+---------
 
 soon...
 
-###Advanced Usage###
+Advanced Usage
+--------------
 
 soon...
 
