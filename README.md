@@ -19,7 +19,7 @@ Installation (via Composer)
 Usage
 ----
 
-####Create a Model###
+#### Create a Model
 Let's create a model first:    
     
     <?php
@@ -59,7 +59,7 @@ or...
     $m->token      = 't0k3n';
  
 
-####Model's useful methods
+#### Model's useful methods
 
     $b->validate(); //true
     
@@ -79,7 +79,7 @@ or...
 
 soon...
     
-###Form###
+### Form
 
 You can use your model to render your form easily (unlike most 'easy forms' packages out there):
     
